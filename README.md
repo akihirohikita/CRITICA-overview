@@ -139,7 +139,7 @@ CRITICA is the system Aki wished existed when those problems first surfaced.
 
 ## Status
 
-CRITICA is in **active development with live deployments and active enterprise dialogue.**
+CRITICA is in **active development with pilot deployments and active enterprise dialogue.**
 
 - ✅ **Pilot use case under development** with a traditional Japanese swordsmith (technology transfer use case)
 - ✅ **3-hour live demonstration** completed with a manufacturing operations company in Kanagawa, Japan (waste oil collection & refining, fleet of ~60 trucks) — April 2026
