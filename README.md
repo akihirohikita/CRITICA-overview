@@ -24,7 +24,7 @@ It answers from knowledge that is tied to the actual structure of work.
 A traditional swordsmith retires after 40 years.
 
 - **Generic RAG tool**: Stores his interview transcripts. AI can quote them when asked.
-- **CRITICA**: Links his knowledge to the exact *Process → Step* he performed. Validates it through a Human Expert Query workflow. Scores its operational relevance against real outcomes (via the γ/Ω metrics). Surfaces it the moment the next operator stands at that step — not when someone happens to search for the right keywords.
+- **CRITICA**: Links his knowledge to the exact *Process → Step* he performed. Validates it through a Human Expert Query workflow. Can be evaluated against operational relevance through γ/Ω-based structural metrics. Surfaces it the moment the next operator stands at that step — not when someone happens to search for the right keywords.
 
 The knowledge doesn't just exist somewhere.
 **It's at the right place, at the right time, in the right structural context.**
@@ -128,7 +128,7 @@ CRITICA is being developed by **Akihiro Hikita**, Founder & CEO of [Cosimo LLC](
 His professional strength is in **upstream business flow design** — not traditional software engineering. CRITICA is being built through deep collaboration with Claude (Anthropic), representing a new model of **AI-augmented solo development** where domain expertise drives architecture, and AI handles implementation discipline under explicit, version-controlled rules.
 
 The project originated from challenges Aki witnessed firsthand:
-- Traditional craft preservation (including a working deployment with a Japanese swordsmith)
+- Traditional craft preservation (including a pilot deployment under development with a Japanese swordsmith)
 - Plant operations and technology transfer
 - Cross-generational business succession in mid-sized manufacturing
 - Knowledge loss as Japan's experienced workforce retires
@@ -141,7 +141,7 @@ CRITICA is the system Aki wished existed when those problems first surfaced.
 
 CRITICA is in **active development with live deployments and active enterprise dialogue.**
 
-- ✅ **Working pilot** with a traditional Japanese swordsmith (technology transfer use case)
+- ✅ **Pilot use case under development** with a traditional Japanese swordsmith (technology transfer use case)
 - ✅ **3-hour live demonstration** completed with a manufacturing operations company in Kanagawa, Japan (waste oil collection & refining, fleet of ~60 trucks) — April 2026
 - ✅ **Three-tier operational architecture complete**: Daily Operations Layer (DR-1) → Work Order Management Layer (KPM-1) → Executive Reporting Layer (MR-1)
 - 🔄 In conversation with multiple enterprise prospects across manufacturing, dairy operations, and traditional craft sectors
