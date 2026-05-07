@@ -151,7 +151,7 @@ The main product source code remains private.
 For partnership, pilot deployment, evaluation, or investment inquiries:
 
 📧 **a.hikita@cosimo.jp**
-🌐 **[cosimo.jp](https://fixgaps.biz)**
+🌐 **[fixgaps.biz](https://fixgaps.biz)**
 
 ---
 
