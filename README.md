@@ -120,7 +120,7 @@ CRITICA is built using the principles CRITICA exists to enable.
 
 ## Founder-Developer Story
 
-CRITICA is being developed by **Akihiro Hikita**, Founder & CEO of [Cosimo LLC](https://cosimo.jp).
+CRITICA is being developed by **Akihiro Hikita**, Founder & CEO of [Cosimo LLC](https://fixgaps.biz).
 
 His professional strength is in **upstream business flow design** — not traditional software engineering. CRITICA is being built through deep collaboration with Claude (Anthropic), representing a new model of **AI-augmented solo development** where domain expertise drives architecture, and AI handles implementation discipline under explicit, version-controlled rules.
 
